@@ -36,17 +36,6 @@ The framework is structured using Pytest fixtures for driver management and supp
 
 ---
 
-## Project Structure
-
-AppiumTest/
-│
-├── conftest.py
-├── test_data_load.py
-├── report.html
-├── assets/
-│   └── style.css
-└── .pytest_cache/
-
 ### File Descriptions
 
 conftest.py  
